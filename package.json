@@ -1,0 +1,24 @@
+{
+  "name": "test-demo",
+  "version": "1.0.0",
+  "description": "For testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujeet-1489/test-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujeet-1489/test-demo/issues"
+  },
+  "homepage": "https://github.com/sujeet-1489/test-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  }
+}
